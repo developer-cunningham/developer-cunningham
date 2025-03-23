@@ -23,7 +23,3 @@ I'm interested in programming!
 
 ## 📊 Stats  
 ![](https://komarev.com/ghpvc/?username=developer-cunningham&color=brightgreen)  
-
----
-
-Let me know if you want any tweaks! 🚀
